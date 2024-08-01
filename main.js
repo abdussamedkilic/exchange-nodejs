@@ -3,7 +3,6 @@
 require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
-const { sequelize } = require('./config/database');
 const tradeRoutes = require('./routes/tradeRoutes');
 const userRoutes = require('./routes/userRoutes');
 const pingRoutes = require('./routes/pingRoutes');

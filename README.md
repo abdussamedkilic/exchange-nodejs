@@ -7,7 +7,7 @@ Exchange-Nodejs is an application developed to teach stock trading terminology. 
 1. Clone the project repository:
 
     ```bash
-    git clone https://github.com/username/evaexchange.git
+    git clone https://github.com/username/exchange.git
     cd evaexchange
     ```
 
@@ -27,7 +27,7 @@ Exchange-Nodejs is an application developed to teach stock trading terminology. 
 
 5. Start the server:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Routes
